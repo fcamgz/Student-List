@@ -1,8 +1,8 @@
 ![sample image](https://github.com/fcamgz/Student-List/blob/main/images/Capture.PNG?raw=true)
-![sample image](https://github.com/fcamgz/Student-List/blob/main/images/Capture2.PNG?raw=true)
+![sample image](https://github.com/fcamgz/Student-List/blob/main/images/capture2.PNG?raw=true)
 ![sample image](https://github.com/fcamgz/Student-List/blob/main/images/Capture3.PNG?raw=true)
 ![sample image](https://github.com/fcamgz/Student-List/blob/main/images/Capture4.PNG?raw=true)
-![sample image](https://github.com/fcamgz/Student-List/blob/main/images/Capture5NG?raw=true)
+![sample image](https://github.com/fcamgz/Student-List/blob/main/images/Capture5.PNG?raw=true)
 
 # Getting Started with Create React App
 
