@@ -1,3 +1,9 @@
+Fetching Student Data from API and rendering with React
+Student grade details can be seen by expanding the page clicking the + button
+Students can be searched by their first and last names
+Different tags can be assigned to students and students can be also searched by those tags
+Searching by both name and tag can be also done
+
 ![sample image](https://github.com/fcamgz/Student-List/blob/main/images/Capture.PNG?raw=true)
 ![sample image](https://github.com/fcamgz/Student-List/blob/main/images/capture2.PNG?raw=true)
 ![sample image](https://github.com/fcamgz/Student-List/blob/main/images/Capture3.PNG?raw=true)
